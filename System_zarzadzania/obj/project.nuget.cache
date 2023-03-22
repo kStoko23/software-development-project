@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NuOq+ugkmh2z+p3VL7T5w+bH7jhQ2nk1hgpj0yBRaXesR5h0Q9LkbQUWtZiZAqVWDAX/2IHmc8ob0JjdAEXQvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\patry\\Documents\\GitHub\\software-development-project\\System_zarzadzania\\System_zarzadzania.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\patry\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
